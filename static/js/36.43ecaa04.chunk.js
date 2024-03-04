@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkfinalpro=self.webpackChunkfinalpro||[]).push([[36],{3036:(e,r,s)=>{s.r(r),s.d(r,{default:()=>c});s(9060);const t=s.p+"static/media/error.084f5f5b0eb10d3216cb7c939108e1f6.svg";var a=s(2496);function c(){return(0,a.jsx)(a.Fragment,{children:(0,a.jsx)("div",{className:"row justify-content-center  my-4 py-4",children:(0,a.jsx)("img",{src:t,alt:"Not found page freshcart ",className:"w-50 py-4 mt-3"})})})}}}]);
+//# sourceMappingURL=36.43ecaa04.chunk.js.map
